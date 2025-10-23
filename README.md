@@ -21,7 +21,7 @@
 
 - 所有笔记均以 PDF 格式整理，建议使用本地 PDF 阅读器浏览；
 - 仓库目录结构按主题分类，便于长期维护和快速查找；
-- 建议搭配 [Obsidian](https://obsidian.md) 或本地文件索引工具一并使用。
+
 
 > All notes are provided in PDF format. It’s recommended to view them using a local PDF reader.  
 > The directory structure is organized by topic for long-term maintainability and easy reference.
