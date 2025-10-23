@@ -27,12 +27,3 @@
 > The directory structure is organized by topic for long-term maintainability and easy reference.
 
 ---
-
-## ✅ 示例添加流程 | Example File Add Workflow
-
-```bash
-# 添加新笔记
-cp ~/Downloads/DeepSpeed_Overview.pdf 02_TrainingSystem_Infra/
-git add .
-git commit -m "add: DeepSpeed training framework note"
-git push
